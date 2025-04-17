@@ -1,88 +1,140 @@
 <h1 align="center">Hi 👋, I'm Sarthak Rakholiya</h1>
-<h3 align="center">I’m a passionate FrontEnd Developer with over 2.5 years of experience specializing in JavaScript and frameworks like React and Next.js. I love creating dynamic and responsive web applications and am always looking to improve my skills and knowledge in the ever-evolving field of web development.</h3>
+<h3 align="center">Frontend Developer | React & Next.js Specialist | 3+ Years Experience</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarthakrakholiya&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakrakholiya" /> 
+  <img src="https://readme-typing-svg.demolab.com/?lines=Crafting+Modern+UIs;Optimizing+Frontend+Performance;Lifelong+Tech+Explorer;Let’s+Build+Something+Awesome!&font=Fira+Code&center=true&width=440&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sarthakrakholiya&column=9&no-frame=true" alt="sarthakrakholiya" />
+  <img src="https://komarev.com/ghpvc/?username=sarthakrakholiya&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="350" alt="Coding Animation" />
+</p>
 
 ---
 
-- 🔭 I’m currently working on [Mento AI (AI-Based Planning Goals)](https://app.lifestreams.ai/)
-- 💬 Ask me about **React JS, Next JS, JavaScript**
-- 📫 How to reach me **rakholiyasarthak9@gmail.com**
-- 📄 Know about my experiences [Resume](https://sarthak-rakholiya-resume.tiiny.site/)
-- ⚡ Fun fact: **When I'm not coding, I love exploring new travel destinations and capturing moments through photography.**
+### 🧑‍💻 About Me
+
+- 💼 Frontend Developer with over 3+ years of experience in building high-performance, scalable web applications.
+- ⚛️ Proficient in JavaScript, React.js, Next.js, and modern UI libraries.
+- 🎯 Focused on responsive UI/UX design, cross-browser compatibility, and performance optimization.
+- 🤝 Collaborative team player committed to maintaining high code quality and continuous improvement.
+- 🌐 Currently enhancing a platform for managing multiple stores, employees, and store-specific menus.
 
 ---
 
-### 🛠️ Languages and Tools:
-#### Programming Languages
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+### 🚀 Tech Stack & Tools
+
+#### 🛠️ Languages
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
 </p>
 
-#### Frameworks and Libraries
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/>
-  <img src="https://static1.smartbear.co/cucumber/media/images/logos/icons/cucumber-open-icon.svg" alt="cucumber" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="mui" width="40" height="40"/>
-  <img src="https://reactstrap.github.io/logo.svg" alt="reactstrap" width="40" height="40"/>
+#### ⚛️ Frameworks & Libraries
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" />
+  <img src="https://playwright.dev/img/playwright-logo.svg" width="40" />
+  <img src="https://static1.smartbear.co/cucumber/media/images/logos/icons/cucumber-open-icon.svg" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="40" />
+  <img src="https://reactstrap.github.io/logo.svg" width="40" />
 </p>
 
-#### Familiar with
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+#### 💾 Backend & Databases (Basic)
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
 </p>
 
-#### IDEs
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/452109/sublime-text.svg" alt="sublime" width="40" height="40"/>
-</p>
-
-#### API Testing Tools
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  <img src="https://insomnia.rest/images/insomnia-logo.svg" alt="insomnia" width="100" height="50"/>
+#### 🔧 Tools & Platforms
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" />
+  <img src="https://www.svgrepo.com/show/452109/sublime-text.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
+  <img src="https://insomnia.rest/images/insomnia-logo.svg" height="40" />
 </p>
 
 #### Version Control
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket" width="40" height="40"/>
+<p>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" width="40" />
 </p>
 
-#### Project Management Tools
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" width="40" height="40"/>
+#### 📈 Project & Team Tools
+<p>
+  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" width="40" />
 </p>
 
 ---
 
-### 📌 Note:
-> I use client or company email addresses for code pushing and commenting, which is why the projects I have worked on are not visible in my GitHub profile.
+### 🌟 Featured Projects
+
+| Project | Description | Tech Stack | Demo |
+|--------|-------------|------------|------|
+| 🗺️ **AI Trip Planner** | AI-based trip planner with GPT integration for creating itineraries | React, Redux, Node.js, OpenAI | [Live Demo](https://raveltrips.com) |
+| 🗓️ **Smart Calendar App** | Calendar system with multi-view scheduling, ACL, and reminders | React, MUI, Redux, Firebase | _Private_ |
+| 🧑‍💼 **HR Management System** | Platform with employee mgmt, leave, payroll, and feedback features | React, Tailwind, GraphQL | _Private_ |
+| ⚙️ **Modular Web App** | App with dynamic forms, dashboards, and robust Playwright tests | React, Cucumber, Playwright | _Private_ |
+| 🎯 **AI Goal Tracker** | Goal setting and feedback system with gamified UI and AI suggestions | React, Zustand, Tailwind CSS | _Private_ |
+
+> ✉️ Want a private project walkthrough? Just reach out!
+
+---
+
+### 🏆 Certifications & Achievements
+
+- ✔️ **Playwright Automation Mastery** – Udemy
+- ✔️ **Modern React with Redux** – Udemy
+- ✔️ **Advanced TypeScript & React Patterns** – Frontend Masters
+- 🥇 Recognized by Zignuts for outstanding contributions to multiple product launches
+
+---
+
+### 📝 Blog Posts / Contributions
+
+- 🧠 [Coming Soon] Technical blogs on React, Next.js, and Testing best practices.
+- 🧪 Planning a tutorial series on Playwright + Cucumber for automation testers.
+
+> Want me to write for your blog, product, or dev community? Let’s connect!
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarthakrakholiya&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakrakholiya&theme=dark&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sarthakrakholiya&theme=onedark&no-frame=true&column=7" />
+</p>
+
+---
+
+### 📬 Let's Connect
+
+- 📧 **Email**: [rakholiyasarthak9@gmail.com](mailto:rakholiyasarthak9@gmail.com)
+- 💼 **LinkedIn**: [linkedin.com/in/sarthakrakholiya](https://www.linkedin.com/in/sarthakrakholiya/)
+- 📄 **Resume**: [View Resume](https://sarthak-rakholiya-resume.tiiny.site/)
+
+---
+
+### ⚠️ Note
+
+> 🚫 Some work is under NDA or private repos, but I’d be happy to show demos or explain my contributions if needed.
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarthakrakholiya&show_icons=true&locale=en" alt="sarthakrakholiya" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakrakholiya&" alt="sarthakrakholiya" />
-</p>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />
+</p> 
