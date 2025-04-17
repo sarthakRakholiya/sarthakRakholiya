@@ -116,7 +116,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakrakholiya&theme=dark&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sarthakrakholiya&theme=onedark&no-frame=true&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sarthakrakholiya&theme=onedark&no-frame=true&column=9" />
 </p>
 
 ---
